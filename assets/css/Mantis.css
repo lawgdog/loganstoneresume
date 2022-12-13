@@ -1,0 +1,41 @@
+body {
+    background-color:lightcoral
+   }
+  
+  h1 {
+    color: navy;
+    
+  }
+  h2 {
+    color:purple  
+    }
+  body{
+    margin-left: 40px;
+  }
+
+  p2{
+    color:maroon
+  }
+
+  h1 {
+    font-family: cursive;
+  }
+
+  .video {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+
+.tableau{
+    width: 300px
+}
+.Title{
+    text-align: center;
+}
+
+.topnav {
+    background-color:whitesmoke;
+    overflow: hidden;
+}
